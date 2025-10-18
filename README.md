@@ -62,15 +62,19 @@ Berikut adalah langkah-langkah untuk membuat dan mengimplementasikan laporan men
     <img width="523" height="347" alt="image" src="https://github.com/user-attachments/assets/a200416c-29d9-411f-bf7c-58d665725041" />
 
 2.  Memilih *layout* atau *template* yang diinginkan.
+    
     <img width="566" height="411" alt="image" src="https://github.com/user-attachments/assets/687840ef-43b6-4933-b020-cf323dfc668d" />
 
 3.  Beri nama File lalu `Next`.
+    
     <img width="596" height="437" alt="image" src="https://github.com/user-attachments/assets/70acc28c-b0ec-4205-8c39-edd47be276c1" />
 
 4.  Menghubungkan ke Database.
+    
     <img width="539" height="649" alt="image" src="https://github.com/user-attachments/assets/9723ee48-9273-49f0-a697-c6b82201c666" />
 
 5.  Mengisi data koneksi sesuai arahan lalu `Next`.
+    
     <img width="611" height="751" alt="image" src="https://github.com/user-attachments/assets/c2693069-f0f7-42ac-85bd-f10c698138bd" />
 
 6.  Isi **Query SQL** yang terkoneksi dengan NetBeans, lalu klik `Next`.
@@ -83,6 +87,7 @@ Berikut adalah langkah-langkah untuk membuat dan mengimplementasikan laporan men
     <img width="711" height="510" alt="image" src="https://github.com/user-attachments/assets/d9e40b1a-dbff-4fb7-b5c1-026b9fce6500" />
 
 9.  `Finish`.
+    
     <img width="711" height="524" alt="image" src="https://github.com/user-attachments/assets/2e58b775-90f2-489e-aed2-41ec399947ce" />
 
 10. **Desain tampilan laporan** sesuai keinginan di editor iReport.
