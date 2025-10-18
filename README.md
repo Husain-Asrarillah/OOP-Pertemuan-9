@@ -34,7 +34,8 @@ Bagian ini menjelaskan langkah-langkah untuk memasang plugin yang diperlukan di 
 
 1.  Menambahkan file yang sudah diunduh pada NetBeans:
     * (Menu) `Tools` ➔ `Plugin`.
-      <img width="686" height="297" alt="image" src="https://github.com/user-attachments/assets/39680bdd-7eb6-48f0-ae30-e71720d9c106" />
+    
+    <img width="686" height="297" alt="image" src="https://github.com/user-attachments/assets/39680bdd-7eb6-48f0-ae30-e71720d9c106" />
 
 2.  Pada menu **Plugins**, pilih tab **Downloaded** ➔ Klik **Add Plugins**.
     <img width="663" height="353" alt="image" src="https://github.com/user-attachments/assets/58fb835a-dd80-49d1-92a5-70b1dad411c3" />
